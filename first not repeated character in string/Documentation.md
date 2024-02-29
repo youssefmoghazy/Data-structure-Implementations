@@ -5,4 +5,4 @@ This C++ program finds and prints the first non-repeating character in a given s
 
 ## Example
 - **Input:** "programming"
-- **Output:** "r"
+- **Output:** "p"
