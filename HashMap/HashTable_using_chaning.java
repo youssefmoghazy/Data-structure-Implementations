@@ -15,6 +15,8 @@ public class HashTable_using_chaning {
     // Creating an array of linked lists of node type.
     private LinkedList<Node>[] Table;
 
+
+    @SuppressWarnings("unchecked")
     public HashTable_using_chaning(int value) {
         if (value > 0)
             Table = new LinkedList[value];
